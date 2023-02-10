@@ -297,3 +297,6 @@ https://github.com/codemonarchs/OpenAISharp/tree/main/Examples
 3. That's it!
 
 **Note:** If you have Visual Studio open while you set these environment variables you need to restart it as Visual Studio does not detect when the environment variables change.
+
+__add trivial change__
+__another trivial change__
